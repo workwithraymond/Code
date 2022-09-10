@@ -1,4 +1,0 @@
-[build]
-  base    = "subdirectory"
-  publish = "subdirectory/dist/"
-  command = "your build command"
